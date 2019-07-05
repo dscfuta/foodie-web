@@ -1,0 +1,55 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    width: 100%;
+}
+
+.login-text{
+    margin-top: 12rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.hello-text{
+    font-weight: 600;
+    /* margin-bottom: 4rem; */
+}
+
+.btnLogin{
+    border-radius: 10px;
+}
+
+.btn {
+    box-shadow: none !important;
+}
+
+.rounded {
+    border-radius: 10px !important;
+}
+
+.unstyled-input {
+    border: none;
+    background-color: transparent;
+}
+.unstyled-input:focus {
+    outline: none;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+}
+
+.rating {
+    color: gold;
+}
+
+.food-image {
+    width: 65px;
+    height: 75px;
+}
